@@ -32,7 +32,7 @@ card.addEventListener('mouseover', runEvent);
 
 // Mouse out
 
-card.addEventListener('mouseout', runEvent
+card.addEventListener('mouseout', runEvent);
 
 // Mouse move
 
